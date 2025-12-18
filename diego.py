@@ -1,0 +1,6 @@
+print("---------------------------------------------------------")
+print("-Mi nombre es Juan Diego Cayetano")
+print("-Mis hobbies son; jugar futbol, ver futbol y ver carreras")
+print("-Mis comidas favoritas son; la lasaña y los nuggets.")
+print("-Mi psotre favorito es el helado de oreo")
+print("---------------------------------------------------------")
